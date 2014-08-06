@@ -1,0 +1,10 @@
+
+{
+  "name": "vierdreidrei",
+  "version": "0.1.1",
+  "description": "Node module for sending and receiving 433Mhz codes with the Raspberry Pi.",
+  "main": "./index.js",
+  "repository": "git://github.com/philplckthun/vierdreidrei.git",
+  "author": "Phil Plückthun <gadschon@gmail.com>",
+  "readmeFilename": "README.md"
+}
