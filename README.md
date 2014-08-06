@@ -1,6 +1,8 @@
 # vierdreidrei [![Gittip](http://badgr.co/gittip/philplckthun.png)](https://www.gittip.com/philplckthun/)
 
-**Vier Drei Drei** [fiər dʁaɪ ̯dʁaɪ̯] (German for 433)
+### **Vier Drei Drei** [fiər dʁaɪ ̯dʁaɪ̯]
+
+*German for 433*
 
 is a node module for 433Mhz communication on the Pi.
 
