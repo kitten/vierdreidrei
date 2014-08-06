@@ -1,4 +1,4 @@
-# vierdreidrei [![Gittip](http://badgr.co/gittip/philplckthun.png)](https://www.gittip.com/philplckthun/)
+# vierdreidrei
 
 ### **Vier Drei Drei** [fiər dʁaɪ ̯dʁaɪ̯]
 
